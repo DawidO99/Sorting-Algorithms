@@ -1,0 +1,770 @@
+Iloœæ danych : 1000
+
+Insertion Sort
+Random :
+Czas wykonania : 3801
+Insertion Sort
+Sorted :
+Czas wykonania : 16
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 6253
+
+
+Selection Sort
+Random :
+Czas wykonania : 6414
+Selection Sort
+Sorted :
+Czas wykonania : 6291
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 6921
+
+
+Bubble Sort
+Random :
+Czas wykonania : 10914
+Bubble Sort
+Sorted :
+Czas wykonania : 6896
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 11233
+
+
+Quick Sort
+Random : 
+Czas wykonania : 158
+Quick Sort
+Sorted : 
+Czas wykonania : 86
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 90
+
+
+Shell Sort
+Random : 
+Czas wykonania : 315
+Shell Sort
+Sorted : 
+Czas wykonania : 147
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 219
+
+
+Heap Sort
+Random : 
+Czas wykonania : 347
+Heap Sort
+Sorted : 
+Czas wykonania : 361
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 392
+
+
+
+
+Iloœæ danych : 5000
+
+Insertion Sort
+Random :
+Czas wykonania : 98682
+Insertion Sort
+Sorted :
+Czas wykonania : 91
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 218203
+
+
+Selection Sort
+Random :
+Czas wykonania : 191184
+Selection Sort
+Sorted :
+Czas wykonania : 150509
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 163464
+
+
+Bubble Sort
+Random :
+Czas wykonania : 275756
+Bubble Sort
+Sorted :
+Czas wykonania : 140774
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 273990
+
+
+Quick Sort
+Random : 
+Czas wykonania : 766
+Quick Sort
+Sorted : 
+Czas wykonania : 460
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 480
+
+
+Shell Sort
+Random : 
+Czas wykonania : 1720
+Shell Sort
+Sorted : 
+Czas wykonania : 851
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 1113
+
+
+Heap Sort
+Random : 
+Czas wykonania : 2031
+Heap Sort
+Sorted : 
+Czas wykonania : 1908
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 1841
+
+
+
+
+Iloœæ danych : 10000
+
+Insertion Sort
+Random :
+Czas wykonania : 290986
+Insertion Sort
+Sorted :
+Czas wykonania : 152
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 594569
+
+
+Selection Sort
+Random :
+Czas wykonania : 552656
+Selection Sort
+Sorted :
+Czas wykonania : 551008
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 555538
+
+
+Bubble Sort
+Random :
+Czas wykonania : 956154
+Bubble Sort
+Sorted :
+Czas wykonania : 562245
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 1115367
+
+
+Quick Sort
+Random : 
+Czas wykonania : 1596
+Quick Sort
+Sorted : 
+Czas wykonania : 988
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 1036
+
+
+Shell Sort
+Random : 
+Czas wykonania : 3833
+Shell Sort
+Sorted : 
+Czas wykonania : 1866
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 2385
+
+
+Heap Sort
+Random : 
+Czas wykonania : 4391
+Heap Sort
+Sorted : 
+Czas wykonania : 4021
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 4032
+
+
+
+
+Iloœæ danych : 25000
+
+Insertion Sort
+Random :
+Czas wykonania : 1858830
+Insertion Sort
+Sorted :
+Czas wykonania : 383
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 3712185
+
+
+Selection Sort
+Random :
+Czas wykonania : 3443387
+Selection Sort
+Sorted :
+Czas wykonania : 3452348
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 3461726
+
+
+Bubble Sort
+Random :
+Czas wykonania : 6043220
+Bubble Sort
+Sorted :
+Czas wykonania : 3526903
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 6982968
+
+
+Quick Sort
+Random : 
+Czas wykonania : 4778
+Quick Sort
+Sorted : 
+Czas wykonania : 2752
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 2871
+
+
+Shell Sort
+Random : 
+Czas wykonania : 10369
+Shell Sort
+Sorted : 
+Czas wykonania : 5118
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 6327
+
+
+Heap Sort
+Random : 
+Czas wykonania : 12017
+Heap Sort
+Sorted : 
+Czas wykonania : 10891
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 11145
+
+
+
+
+Iloœæ danych : 50000
+
+Insertion Sort
+Random :
+Czas wykonania : 7412865
+Insertion Sort
+Sorted :
+Czas wykonania : 832
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 14939171
+
+
+Selection Sort
+Random :
+Czas wykonania : 13778163
+Selection Sort
+Sorted :
+Czas wykonania : 13822811
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 13725840
+
+
+Bubble Sort
+Random :
+Czas wykonania : 24200366
+Bubble Sort
+Sorted :
+Czas wykonania : 14103655
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 27354189
+
+
+Quick Sort
+Random : 
+Czas wykonania : 9314
+Quick Sort
+Sorted : 
+Czas wykonania : 6157
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 6405
+
+
+Shell Sort
+Random : 
+Czas wykonania : 22062
+Shell Sort
+Sorted : 
+Czas wykonania : 11014
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 13540
+
+
+Heap Sort
+Random : 
+Czas wykonania : 25673
+Heap Sort
+Sorted : 
+Czas wykonania : 23073
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 24193
+
+
+
+
+Iloœæ danych : 75000
+
+Insertion Sort
+Random :
+Czas wykonania : 16620587
+Insertion Sort
+Sorted :
+Czas wykonania : 1171
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 33259822
+
+
+Selection Sort
+Random :
+Czas wykonania : 30873357
+Selection Sort
+Sorted :
+Czas wykonania : 31228759
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 30893192
+
+
+Bubble Sort
+Random :
+Czas wykonania : 54155427
+Bubble Sort
+Sorted :
+Czas wykonania : 31535434
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 61523747
+
+
+Quick Sort
+Random : 
+Czas wykonania : 13876
+Quick Sort
+Sorted : 
+Czas wykonania : 9236
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 9626
+
+
+Shell Sort
+Random : 
+Czas wykonania : 34000
+Shell Sort
+Sorted : 
+Czas wykonania : 17702
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 21388
+
+
+Heap Sort
+Random : 
+Czas wykonania : 40003
+Heap Sort
+Sorted : 
+Czas wykonania : 35925
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 37498
+
+
+
+
+Iloœæ danych : 100000
+
+Insertion Sort
+Random :
+Czas wykonania : 29548876
+Insertion Sort
+Sorted :
+Czas wykonania : 1656
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 59136263
+
+
+Selection Sort
+Random :
+Czas wykonania : 54905409
+Selection Sort
+Sorted :
+Czas wykonania : 54856864
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 55044859
+
+
+Bubble Sort
+Random :
+Czas wykonania : 96531854
+Bubble Sort
+Sorted :
+Czas wykonania : 56061421
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 109708134
+
+
+Quick Sort
+Random : 
+Czas wykonania : 18802
+Quick Sort
+Sorted : 
+Czas wykonania : 12700
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 13188
+
+
+Shell Sort
+Random : 
+Czas wykonania : 47725
+Shell Sort
+Sorted : 
+Czas wykonania : 23525
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 28634
+
+
+Heap Sort
+Random : 
+Czas wykonania : 54803
+Heap Sort
+Sorted : 
+Czas wykonania : 49545
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 51403
+
+
+
+
+Iloœæ danych : 250000
+
+Insertion Sort
+Random :
+Czas wykonania : 184938412
+Insertion Sort
+Sorted :
+Czas wykonania : 4090
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 370317886
+
+
+Selection Sort
+Random :
+Czas wykonania : 343889877
+Selection Sort
+Sorted :
+Czas wykonania : 344589399
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 344715796
+
+
+Bubble Sort
+Random :
+Czas wykonania : 601637676
+Bubble Sort
+Sorted :
+Czas wykonania : 350670887
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 682300785
+
+
+Quick Sort
+Random : 
+Czas wykonania : 51138
+Quick Sort
+Sorted : 
+Czas wykonania : 35600
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 36851
+
+
+Shell Sort
+Random : 
+Czas wykonania : 136910
+Shell Sort
+Sorted : 
+Czas wykonania : 63270
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 75181
+
+
+Heap Sort
+Random : 
+Czas wykonania : 149067
+Heap Sort
+Sorted : 
+Czas wykonania : 133330
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 140055
+
+
+
+
+Iloœæ danych : 500000
+
+Insertion Sort
+Random :
+Czas wykonania : 741290369
+Insertion Sort
+Sorted :
+Czas wykonania : 7836
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 1480721624
+
+
+Selection Sort
+Random :
+Czas wykonania : 1374844823
+Selection Sort
+Sorted :
+Czas wykonania : 1373057638
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 1373601651
+
+
+Bubble Sort
+Random :
+Czas wykonania : 2405523295
+Bubble Sort
+Sorted :
+Czas wykonania : 1401053959
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 2732855011
+
+
+Quick Sort
+Random : 
+Czas wykonania : 104418
+Quick Sort
+Sorted : 
+Czas wykonania : 75521
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 78311
+
+
+Shell Sort
+Random : 
+Czas wykonania : 293945
+Shell Sort
+Sorted : 
+Czas wykonania : 136131
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 158112
+
+
+Heap Sort
+Random : 
+Czas wykonania : 316007
+Heap Sort
+Sorted : 
+Czas wykonania : 281221
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 297207
+
+
+
+
+Iloœæ danych : 750000
+
+Insertion Sort
+Random :
+Czas wykonania : 1666851713
+Insertion Sort
+Sorted :
+Czas wykonania : 11733
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 3332485390
+
+
+Selection Sort
+Random :
+Czas wykonania : 3119340846
+Selection Sort
+Sorted :
+Czas wykonania : 3100946863
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 3121531049
+
+
+Bubble Sort
+Random :
+Czas wykonania : 5468798817
+Bubble Sort
+Sorted :
+Czas wykonania : 3171005080
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 6186422715
+
+
+Quick Sort
+Random : 
+Czas wykonania : 160993
+Quick Sort
+Sorted : 
+Czas wykonania : 114212
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 118166
+
+
+Shell Sort
+Random : 
+Czas wykonania : 412288
+Shell Sort
+Sorted : 
+Czas wykonania : 211132
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 248279
+
+
+Heap Sort
+Random : 
+Czas wykonania : 491538
+Heap Sort
+Sorted : 
+Czas wykonania : 437384
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 461989
+
+
+
+
+Iloœæ danych : 1000000
+
+Insertion Sort
+Random :
+Czas wykonania : 2976380484
+Insertion Sort
+Sorted :
+Czas wykonania : 15456
+Insertion Sort
+Sorted & reversed :
+Czas wykonania : 5947033617
+
+
+Selection Sort
+Random :
+Czas wykonania : 5525115348
+Selection Sort
+Sorted :
+Czas wykonania : 5515914164
+Selection Sort
+Sorted & reversed :
+Czas wykonania : 5518839752
+
+
+Bubble Sort
+Random :
+Czas wykonania : 9657706379
+Bubble Sort
+Sorted :
+Czas wykonania : 5661997902
+Bubble Sort
+Sorted & reversed :
+Czas wykonania : 10996370742
+
+
+Quick Sort
+Random : 
+Czas wykonania : 218131
+Quick Sort
+Sorted : 
+Czas wykonania : 160841
+Quick Sort
+Sorted & reversed : 
+Czas wykonania : 166107
+
+
+Shell Sort
+Random : 
+Czas wykonania : 604990
+Shell Sort
+Sorted : 
+Czas wykonania : 282190
+Shell Sort
+Sorted & reversed : 
+Czas wykonania : 342700
+
+
+Heap Sort
+Random : 
+Czas wykonania : 672683
+Heap Sort
+Sorted : 
+Czas wykonania : 585870
+Heap Sort
+Sorted & reversed : 
+Czas wykonania : 631147
+
+
+
+

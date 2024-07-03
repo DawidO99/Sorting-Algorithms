@@ -1,0 +1,4 @@
+,Insertion Sort,Selection Sort,Bubble Sort,Quick Sort,Shell Sort,Heap Sort
+Random,0.098682,0.191184,0.275756,0.000766,0.00172,0.002031
+Sorted,9.1e-05,0.150509,0.140774,0.00046,0.000851,0.001908
+Sorted & Reversed,0.218203,0.163464,0.27399,0.00048,0.001113,0.004032
